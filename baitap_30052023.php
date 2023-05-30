@@ -10,7 +10,6 @@ function ktChanLe($number) {
 ktChanLe(5);
 ktChanLe(6);
 
-
 echo "<br>Bài 2: Tra cứu điểm thi, xếp hạng học lực: <br>";
 function xepHangHocLuc($diemGiuaKy, $diemCuoiKy) {
     $diemTB = ($diemGiuaKy*0.30) + ($diemCuoiKy*0.7);
